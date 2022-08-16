@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arnesh Singh</h1>
 <h3 align="center">I'm an adaptive intermediate coder and an intermediate frontend end developer.</h3>
 
-<img align="right" width="300" alt=“Coding” src="https://www.gettingsmart.com/wp-content/uploads/2015/04/programming-concept-482x335-1.jpg" />
+<img align="right" width="250" alt=“Coding” src="https://www.gettingsmart.com/wp-content/uploads/2015/04/programming-concept-482x335-1.jpg" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnesh03" alt="arnesh03" /></a> </p>
 
