@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arnesh Singh</h1>
 <h3 align="center">I'm an adaptive intermediate coder and an intermediate frontend end developer.</h3>
 
-<img align="right" width="190" alt=“Coding” src="https://www.gettingsmart.com/wp-content/uploads/2015/04/programming-concept-482x335-1.jpg" />
+<img align="right" width="185" alt=“Coding” src="https://www.gettingsmart.com/wp-content/uploads/2015/04/programming-concept-482x335-1.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnesh03&label=Profile%20views&color=0e75b6&style=flat" alt="arnesh03" /> </p>
 
