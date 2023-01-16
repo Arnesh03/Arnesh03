@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnesh03" alt="arnesh03" /></a> </p>
 
-- 🔭 I’m currently working on **building the dynamic frontend page with the help of JavaScript.**
+- 🔭 I’m currently a student on **@GECDaman.**
 
-- 🌱 I’m currently learning **JavaScript, NodeJs, MongoDB,Python application in Data Science**
+- 🌱 I’m currently learning **Machine learning and Data Science**
+
+-🤖 I've learned **Java , C++ , DSA , Javascript , OOPs .** 
 
 - 📫 How to reach me **arneshsingh77299@gmail.com**
 
