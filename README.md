@@ -11,7 +11,7 @@
 - 🔭 I’m currently a student on **@GECDaman.**
 
 - 🌱 I’m currently learning **Machine learning and Data Science**
-- -🤖 I've learned **Java , C++ , DSA , Javascript , OOPs .** 
+- 🤖 I've learned **Java , C++ , DSA , Javascript , OOPs .** 
 
 - 📫 How to reach me **arneshsingh77299@gmail.com**
 
