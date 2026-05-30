@@ -48,7 +48,7 @@
 
 ### 💻 Personal Projects
 
-- 🏠 **House Price Prediction**: Developed a house price prediction model using XGBoost Regression, achieving an accuracy of over 88%.
+- 🎨 **Deep Image Harmonization via Semantic-Gated Cross-Attention**: Proposed a novel Semantic-Gated Cross-Attention mechanism for image harmonization using a U-Net backbone, reducing foreground MSE by 8.6% over the S2AM baseline on the HCOCO dataset (38K+ images). Deployed an interactive Streamlit demo.
 - 👥 **Customer Segmentation**: Conducted comprehensive data analysis and visualization on large datasets to identify top-selling items and guide marketing.
 - 🩺 **Imaging Insights and Analysis**: Achieved over 90% accuracy in detecting diseases (bone fractures, COVID-19, pneumonia, brain tumors) in medical and agricultural images using CNNs. Deployed via Streamlit.
 
